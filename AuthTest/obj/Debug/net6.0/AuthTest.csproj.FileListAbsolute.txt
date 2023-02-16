@@ -1,0 +1,164 @@
+C:\Users\ricke\Desktop\C# 2\AuthTest\AuthTest\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ricke\Desktop\C# 2\AuthTest\AuthTest\bin\Debug\net6.0\appsettings.json
+C:\Users\ricke\Desktop\C# 2\AuthTest\AuthTest\bin\Debug\net6.0\AuthTest.exe
+C:\Users\ricke\Desktop\C# 2\AuthTest\AuthTest\bin\Debug\net6.0\AuthTest.deps.json
+C:\Users\ricke\Desktop\C# 2\AuthTest\AuthTest\bin\Debug\net6.0\AuthTest.runtimeconfig.json
+C:\Users\ricke\Desktop\C# 2\AuthTest\AuthTest\bin\Debug\net6.0\AuthTest.dll
+C:\Users\ricke\Desktop\C# 2\AuthTest\AuthTest\bin\Debug\net6.0\ref\AuthTest.dll
+C:\Users\ricke\Desktop\C# 2\AuthTest\AuthTest\bin\Debug\net6.0\AuthTest.pdb
+C:\Users\ricke\Desktop\C# 2\AuthTest\AuthTest\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\ricke\Desktop\C# 2\AuthTest\AuthTest\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\ricke\Desktop\C# 2\AuthTest\AuthTest\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\ricke\Desktop\C# 2\AuthTest\AuthTest\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ricke\Desktop\C# 2\AuthTest\AuthTest\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ricke\Desktop\C# 2\AuthTest\AuthTest\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ricke\Desktop\C# 2\AuthTest\AuthTest\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ricke\Desktop\C# 2\AuthTest\AuthTest\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ricke\Desktop\C# 2\AuthTest\AuthTest\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ricke\Desktop\C# 2\AuthTest\AuthTest\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ricke\Desktop\C# 2\AuthTest\AuthTest\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ricke\Desktop\C# 2\AuthTest\AuthTest\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ricke\Desktop\C# 2\AuthTest\AuthTest\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ricke\Desktop\C# 2\AuthTest\AuthTest\obj\Debug\net6.0\AuthTest.csproj.AssemblyReference.cache
+C:\Users\ricke\Desktop\C# 2\AuthTest\AuthTest\obj\Debug\net6.0\AuthTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ricke\Desktop\C# 2\AuthTest\AuthTest\obj\Debug\net6.0\AuthTest.AssemblyInfoInputs.cache
+C:\Users\ricke\Desktop\C# 2\AuthTest\AuthTest\obj\Debug\net6.0\AuthTest.AssemblyInfo.cs
+C:\Users\ricke\Desktop\C# 2\AuthTest\AuthTest\obj\Debug\net6.0\AuthTest.csproj.CoreCompileInputs.cache
+C:\Users\ricke\Desktop\C# 2\AuthTest\AuthTest\obj\Debug\net6.0\AuthTest.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ricke\Desktop\C# 2\AuthTest\AuthTest\obj\Debug\net6.0\AuthTest.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ricke\Desktop\C# 2\AuthTest\AuthTest\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ricke\Desktop\C# 2\AuthTest\AuthTest\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ricke\Desktop\C# 2\AuthTest\AuthTest\obj\Debug\net6.0\scopedcss\bundle\AuthTest.styles.css
+C:\Users\ricke\Desktop\C# 2\AuthTest\AuthTest\obj\Debug\net6.0\AuthTest.dll
+C:\Users\ricke\Desktop\C# 2\AuthTest\AuthTest\obj\Debug\net6.0\ref\AuthTest.dll
+C:\Users\ricke\Desktop\C# 2\AuthTest\AuthTest\obj\Debug\net6.0\AuthTest.pdb
+C:\Users\ricke\Desktop\C# 2\AuthTest\AuthTest\obj\Debug\net6.0\AuthTest.genruntimeconfig.cache
+D:\Net6JwtAuthentication-master\Net6JwtAuthentication-master\AuthTest\bin\Debug\net6.0\appsettings.Development.json
+D:\Net6JwtAuthentication-master\Net6JwtAuthentication-master\AuthTest\bin\Debug\net6.0\appsettings.json
+D:\Net6JwtAuthentication-master\Net6JwtAuthentication-master\AuthTest\bin\Debug\net6.0\AuthTest.exe
+D:\Net6JwtAuthentication-master\Net6JwtAuthentication-master\AuthTest\bin\Debug\net6.0\AuthTest.deps.json
+D:\Net6JwtAuthentication-master\Net6JwtAuthentication-master\AuthTest\bin\Debug\net6.0\AuthTest.runtimeconfig.json
+D:\Net6JwtAuthentication-master\Net6JwtAuthentication-master\AuthTest\bin\Debug\net6.0\AuthTest.dll
+D:\Net6JwtAuthentication-master\Net6JwtAuthentication-master\AuthTest\bin\Debug\net6.0\AuthTest.pdb
+D:\Net6JwtAuthentication-master\Net6JwtAuthentication-master\AuthTest\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Net6JwtAuthentication-master\Net6JwtAuthentication-master\AuthTest\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+D:\Net6JwtAuthentication-master\Net6JwtAuthentication-master\AuthTest\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+D:\Net6JwtAuthentication-master\Net6JwtAuthentication-master\AuthTest\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Net6JwtAuthentication-master\Net6JwtAuthentication-master\AuthTest\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Net6JwtAuthentication-master\Net6JwtAuthentication-master\AuthTest\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Net6JwtAuthentication-master\Net6JwtAuthentication-master\AuthTest\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Net6JwtAuthentication-master\Net6JwtAuthentication-master\AuthTest\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Net6JwtAuthentication-master\Net6JwtAuthentication-master\AuthTest\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Net6JwtAuthentication-master\Net6JwtAuthentication-master\AuthTest\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Net6JwtAuthentication-master\Net6JwtAuthentication-master\AuthTest\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Net6JwtAuthentication-master\Net6JwtAuthentication-master\AuthTest\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Net6JwtAuthentication-master\Net6JwtAuthentication-master\AuthTest\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Net6JwtAuthentication-master\Net6JwtAuthentication-master\AuthTest\obj\Debug\net6.0\AuthTest.csproj.AssemblyReference.cache
+D:\Net6JwtAuthentication-master\Net6JwtAuthentication-master\AuthTest\obj\Debug\net6.0\AuthTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Net6JwtAuthentication-master\Net6JwtAuthentication-master\AuthTest\obj\Debug\net6.0\AuthTest.AssemblyInfoInputs.cache
+D:\Net6JwtAuthentication-master\Net6JwtAuthentication-master\AuthTest\obj\Debug\net6.0\AuthTest.AssemblyInfo.cs
+D:\Net6JwtAuthentication-master\Net6JwtAuthentication-master\AuthTest\obj\Debug\net6.0\AuthTest.csproj.CoreCompileInputs.cache
+D:\Net6JwtAuthentication-master\Net6JwtAuthentication-master\AuthTest\obj\Debug\net6.0\AuthTest.MvcApplicationPartsAssemblyInfo.cs
+D:\Net6JwtAuthentication-master\Net6JwtAuthentication-master\AuthTest\obj\Debug\net6.0\AuthTest.MvcApplicationPartsAssemblyInfo.cache
+D:\Net6JwtAuthentication-master\Net6JwtAuthentication-master\AuthTest\obj\Debug\net6.0\staticwebassets\msbuild.AuthTest.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Net6JwtAuthentication-master\Net6JwtAuthentication-master\AuthTest\obj\Debug\net6.0\staticwebassets\msbuild.build.AuthTest.props
+D:\Net6JwtAuthentication-master\Net6JwtAuthentication-master\AuthTest\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AuthTest.props
+D:\Net6JwtAuthentication-master\Net6JwtAuthentication-master\AuthTest\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AuthTest.props
+D:\Net6JwtAuthentication-master\Net6JwtAuthentication-master\AuthTest\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Net6JwtAuthentication-master\Net6JwtAuthentication-master\AuthTest\obj\Debug\net6.0\staticwebassets.build.json
+D:\Net6JwtAuthentication-master\Net6JwtAuthentication-master\AuthTest\obj\Debug\net6.0\staticwebassets.development.json
+D:\Net6JwtAuthentication-master\Net6JwtAuthentication-master\AuthTest\obj\Debug\net6.0\scopedcss\bundle\AuthTest.styles.css
+D:\Net6JwtAuthentication-master\Net6JwtAuthentication-master\AuthTest\obj\Debug\net6.0\AuthTest.csproj.CopyComplete
+D:\Net6JwtAuthentication-master\Net6JwtAuthentication-master\AuthTest\obj\Debug\net6.0\AuthTest.dll
+D:\Net6JwtAuthentication-master\Net6JwtAuthentication-master\AuthTest\obj\Debug\net6.0\refint\AuthTest.dll
+D:\Net6JwtAuthentication-master\Net6JwtAuthentication-master\AuthTest\obj\Debug\net6.0\AuthTest.pdb
+D:\Net6JwtAuthentication-master\Net6JwtAuthentication-master\AuthTest\obj\Debug\net6.0\AuthTest.genruntimeconfig.cache
+D:\Net6JwtAuthentication-master\Net6JwtAuthentication-master\AuthTest\obj\Debug\net6.0\ref\AuthTest.dll
+D:\CapstoneProject\AuthTestModule-NET\AuthTest\bin\Debug\net6.0\appsettings.Development.json
+D:\CapstoneProject\AuthTestModule-NET\AuthTest\bin\Debug\net6.0\appsettings.json
+D:\CapstoneProject\AuthTestModule-NET\AuthTest\bin\Debug\net6.0\AuthTest.exe
+D:\CapstoneProject\AuthTestModule-NET\AuthTest\bin\Debug\net6.0\AuthTest.deps.json
+D:\CapstoneProject\AuthTestModule-NET\AuthTest\bin\Debug\net6.0\AuthTest.runtimeconfig.json
+D:\CapstoneProject\AuthTestModule-NET\AuthTest\bin\Debug\net6.0\AuthTest.dll
+D:\CapstoneProject\AuthTestModule-NET\AuthTest\bin\Debug\net6.0\AuthTest.pdb
+D:\CapstoneProject\AuthTestModule-NET\AuthTest\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+D:\CapstoneProject\AuthTestModule-NET\AuthTest\bin\Debug\net6.0\EntityFramework.dll
+D:\CapstoneProject\AuthTestModule-NET\AuthTest\bin\Debug\net6.0\Google.Protobuf.dll
+D:\CapstoneProject\AuthTestModule-NET\AuthTest\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+D:\CapstoneProject\AuthTestModule-NET\AuthTest\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+D:\CapstoneProject\AuthTestModule-NET\AuthTest\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+D:\CapstoneProject\AuthTestModule-NET\AuthTest\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\CapstoneProject\AuthTestModule-NET\AuthTest\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+D:\CapstoneProject\AuthTestModule-NET\AuthTest\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll
+D:\CapstoneProject\AuthTestModule-NET\AuthTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\CapstoneProject\AuthTestModule-NET\AuthTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\CapstoneProject\AuthTestModule-NET\AuthTest\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\CapstoneProject\AuthTestModule-NET\AuthTest\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\CapstoneProject\AuthTestModule-NET\AuthTest\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\CapstoneProject\AuthTestModule-NET\AuthTest\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\CapstoneProject\AuthTestModule-NET\AuthTest\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\CapstoneProject\AuthTestModule-NET\AuthTest\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\CapstoneProject\AuthTestModule-NET\AuthTest\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\CapstoneProject\AuthTestModule-NET\AuthTest\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\CapstoneProject\AuthTestModule-NET\AuthTest\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\CapstoneProject\AuthTestModule-NET\AuthTest\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\CapstoneProject\AuthTestModule-NET\AuthTest\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\CapstoneProject\AuthTestModule-NET\AuthTest\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\CapstoneProject\AuthTestModule-NET\AuthTest\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\CapstoneProject\AuthTestModule-NET\AuthTest\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\CapstoneProject\AuthTestModule-NET\AuthTest\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\CapstoneProject\AuthTestModule-NET\AuthTest\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\CapstoneProject\AuthTestModule-NET\AuthTest\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\CapstoneProject\AuthTestModule-NET\AuthTest\bin\Debug\net6.0\MySql.Data.dll
+D:\CapstoneProject\AuthTestModule-NET\AuthTest\bin\Debug\net6.0\ZstdNet.dll
+D:\CapstoneProject\AuthTestModule-NET\AuthTest\bin\Debug\net6.0\comerr64.dll
+D:\CapstoneProject\AuthTestModule-NET\AuthTest\bin\Debug\net6.0\gssapi64.dll
+D:\CapstoneProject\AuthTestModule-NET\AuthTest\bin\Debug\net6.0\k5sprt64.dll
+D:\CapstoneProject\AuthTestModule-NET\AuthTest\bin\Debug\net6.0\krb5_64.dll
+D:\CapstoneProject\AuthTestModule-NET\AuthTest\bin\Debug\net6.0\krbcc64.dll
+D:\CapstoneProject\AuthTestModule-NET\AuthTest\bin\Debug\net6.0\MySql.Data.EntityFramework.dll
+D:\CapstoneProject\AuthTestModule-NET\AuthTest\bin\Debug\net6.0\MySql.Data.EntityFrameworkCore.dll
+D:\CapstoneProject\AuthTestModule-NET\AuthTest\bin\Debug\net6.0\MySql.EntityFrameworkCore.dll
+D:\CapstoneProject\AuthTestModule-NET\AuthTest\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+D:\CapstoneProject\AuthTestModule-NET\AuthTest\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\CapstoneProject\AuthTestModule-NET\AuthTest\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\CapstoneProject\AuthTestModule-NET\AuthTest\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\CapstoneProject\AuthTestModule-NET\AuthTest\bin\Debug\net6.0\System.CodeDom.dll
+D:\CapstoneProject\AuthTestModule-NET\AuthTest\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\CapstoneProject\AuthTestModule-NET\AuthTest\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\CapstoneProject\AuthTestModule-NET\AuthTest\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\CapstoneProject\AuthTestModule-NET\AuthTest\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\CapstoneProject\AuthTestModule-NET\AuthTest\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\CapstoneProject\AuthTestModule-NET\AuthTest\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\CapstoneProject\AuthTestModule-NET\AuthTest\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\CapstoneProject\AuthTestModule-NET\AuthTest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\CapstoneProject\AuthTestModule-NET\AuthTest\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\CapstoneProject\AuthTestModule-NET\AuthTest\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\CapstoneProject\AuthTestModule-NET\AuthTest\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\CapstoneProject\AuthTestModule-NET\AuthTest\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\CapstoneProject\AuthTestModule-NET\AuthTest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\CapstoneProject\AuthTestModule-NET\AuthTest\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\CapstoneProject\AuthTestModule-NET\AuthTest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\CapstoneProject\AuthTestModule-NET\AuthTest\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\CapstoneProject\AuthTestModule-NET\AuthTest\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\CapstoneProject\AuthTestModule-NET\AuthTest\obj\Debug\net6.0\AuthTest.csproj.AssemblyReference.cache
+D:\CapstoneProject\AuthTestModule-NET\AuthTest\obj\Debug\net6.0\AuthTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\CapstoneProject\AuthTestModule-NET\AuthTest\obj\Debug\net6.0\AuthTest.AssemblyInfoInputs.cache
+D:\CapstoneProject\AuthTestModule-NET\AuthTest\obj\Debug\net6.0\AuthTest.AssemblyInfo.cs
+D:\CapstoneProject\AuthTestModule-NET\AuthTest\obj\Debug\net6.0\AuthTest.csproj.CoreCompileInputs.cache
+D:\CapstoneProject\AuthTestModule-NET\AuthTest\obj\Debug\net6.0\AuthTest.MvcApplicationPartsAssemblyInfo.cs
+D:\CapstoneProject\AuthTestModule-NET\AuthTest\obj\Debug\net6.0\AuthTest.MvcApplicationPartsAssemblyInfo.cache
+D:\CapstoneProject\AuthTestModule-NET\AuthTest\obj\Debug\net6.0\staticwebassets\msbuild.AuthTest.Microsoft.AspNetCore.StaticWebAssets.props
+D:\CapstoneProject\AuthTestModule-NET\AuthTest\obj\Debug\net6.0\staticwebassets\msbuild.build.AuthTest.props
+D:\CapstoneProject\AuthTestModule-NET\AuthTest\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AuthTest.props
+D:\CapstoneProject\AuthTestModule-NET\AuthTest\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AuthTest.props
+D:\CapstoneProject\AuthTestModule-NET\AuthTest\obj\Debug\net6.0\staticwebassets.pack.json
+D:\CapstoneProject\AuthTestModule-NET\AuthTest\obj\Debug\net6.0\staticwebassets.build.json
+D:\CapstoneProject\AuthTestModule-NET\AuthTest\obj\Debug\net6.0\staticwebassets.development.json
+D:\CapstoneProject\AuthTestModule-NET\AuthTest\obj\Debug\net6.0\scopedcss\bundle\AuthTest.styles.css
+D:\CapstoneProject\AuthTestModule-NET\AuthTest\obj\Debug\net6.0\AuthTest.csproj.CopyComplete
+D:\CapstoneProject\AuthTestModule-NET\AuthTest\obj\Debug\net6.0\AuthTest.dll
+D:\CapstoneProject\AuthTestModule-NET\AuthTest\obj\Debug\net6.0\refint\AuthTest.dll
+D:\CapstoneProject\AuthTestModule-NET\AuthTest\obj\Debug\net6.0\AuthTest.pdb
+D:\CapstoneProject\AuthTestModule-NET\AuthTest\obj\Debug\net6.0\AuthTest.genruntimeconfig.cache
+D:\CapstoneProject\AuthTestModule-NET\AuthTest\obj\Debug\net6.0\ref\AuthTest.dll
